@@ -3,4 +3,4 @@ const companyName = 'Scuber';
 
 mostProfitableNeighborhood = Chelsea;
 
-companyCeo = Susan Smith
+companyCeo = Susan Smith;
